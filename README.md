@@ -14,3 +14,5 @@ Python, Dash, Plotly, Pandas
 pip install -r requirements.txt
 python "main dash.py"
 Then open http://127.0.0.1:8050 in your browser
+## Preview
+![Dashboard](Screenshot 2026-06-01 215657.png)
